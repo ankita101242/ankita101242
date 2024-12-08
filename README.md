@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitaAgrawal12
+- 👋 Hi, I’m Ankita Agrawal
 - 👀 I’m interested in artificial intelligence, web development, and data science.
 - 🌱 I’m currently learning coding, development, and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects, innovative AI solutions, and hackathons.
